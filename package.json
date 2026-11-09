@@ -1,0 +1,25 @@
+{
+  "name": "product-inventory-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelila132/Product-Inventory-REST-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gelila132/Product-Inventory-REST-API/issues"
+  },
+  "homepage": "https://github.com/gelila132/Product-Inventory-REST-API#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
